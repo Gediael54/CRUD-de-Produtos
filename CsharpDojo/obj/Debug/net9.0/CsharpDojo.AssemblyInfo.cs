@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CsharpDojo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffba378dc3c00a0f585bbba0e158af12d0ae7aab")]
 [assembly: System.Reflection.AssemblyProductAttribute("CsharpDojo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CsharpDojo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
